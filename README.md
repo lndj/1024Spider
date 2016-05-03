@@ -7,9 +7,10 @@ I mainly want to learn about web spider using Python.But, nothing to crawl.Anywa
 
 
 #  Installation
-    1024Spider is depended on Pysipder.
-    Pyspider: https://github.com/binux/pyspider
 
-    You can install Pyspider firstly and then create a project on WebUI. Copy  my code into it.
+1024Spider is depended on Pysipder.
+Pyspider: https://github.com/binux/pyspider
 
-    If you need more infomation, please read the Pyspider docment.
+You can install Pyspider firstly and then create a project on WebUI. Copy  my code into it.
+
+If you need more infomation, please read the Pyspider docment.
