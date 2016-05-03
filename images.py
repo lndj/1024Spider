@@ -9,11 +9,11 @@ import re
 import os
 
 PAGE_START = 1
-#默认抓取30页
+#default 30 pages
 PAGE_END = 30
 DIR_PATH = '/path/to/1024'
 
-#1024地址多变，自己找可用的咯
+#1024 has much urls and it is changing always
 URL = 'http://cl.comcl.org/'
 #URL = 'http://t66y.com/'
 START_URL = URL + 'thread0806.php?fid=8'
