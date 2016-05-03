@@ -1,5 +1,5 @@
 # 1024Spider
-Only for learning, pleasw pay attention to your health.
+Only for learning, please pay attention to your health.
 ---
 
 I mainly want to learn about web spider using Python.But, nothing to crawl.Anyway, the 1024 website is a good example.
