@@ -6,7 +6,14 @@ Only for learning, please pay attention to your health.
 
 I mainly want to learn about web spider using Python.But, nothing to crawl.Anyway, the 1024 website is a good example.
 
+# Configure
 
+Use `image.py` as a example, it is a spider to crawl images of 1024.
+
+1. Modify the `DIR_PATH` in line 14.
+2. Find a useful url of 1024 and modify `URL` in line 17.
+
+Then, you can enjoy it.
 
 #  Installation
 
