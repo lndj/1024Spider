@@ -1,13 +1,15 @@
 # 1024Spider
-仅供学习，注意身体。
+Only for learning, pleasw pay attention to your health.
 ---
 
-嗯，主要就是学习一下Python写爬虫啦~没啥可抓的，就抓1024了。
-仅供学习啊！！！
+I mainly want to learn about web spider using Python.But, nothing to crawl.Anyway, the 1024 website is a good example.
 
-#  1.依赖
-    爬虫基于pyspider.
-    项目地址；https://github.com/binux/pyspider
 
-#  2.安装
-    直接在pyspider的WebUI创建项目，复制代码进去即可。具体请参与pyspider文档。
+
+#  Installation
+    1024Spider is depended on Pysipder.
+    Pyspider: https://github.com/binux/pyspider
+
+    You can install Pyspider firstly and then create a project on WebUI. Copy  my code into it.
+
+    If you need more infomation, please read the Pyspider docment.
