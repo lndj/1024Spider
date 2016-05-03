@@ -1,4 +1,6 @@
 # 1024Spider
+
+[![Join the chat at https://gitter.im/lndj/1024Spider](https://badges.gitter.im/lndj/1024Spider.svg)](https://gitter.im/lndj/1024Spider?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Only for learning, please pay attention to your health.
 ---
 
